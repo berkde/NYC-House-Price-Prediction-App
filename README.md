@@ -27,7 +27,7 @@ This project predicts real estate prices for NYC properties using a stacked mach
 | Metric | Value    |
 |--------|----------|
 | MAE    | ~$15,804 |
-| RMSE   | ~$5.04M  |
+| RMSE   | ~$71,319 |
 | R²     | ~0.9963  |
 
 ## Setup Instructions
