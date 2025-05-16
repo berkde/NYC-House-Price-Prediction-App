@@ -126,8 +126,10 @@ The app includes a SHAP-based feature importance chart that shows what drives pr
 
 ---
 
+## ✅ Upcoming improvements are tracked [here](https://github.com/berkde/NYC-House-Price-Prediction-App/issues)
 
 
+---
 
 ## Author
 
