@@ -2,8 +2,8 @@ import joblib
 import numpy as np
 import streamlit as st
 
-model = joblib.load("model.pkl")
-X_train_final = joblib.load('X_train_final.pkl')
+model = joblib.load("./model/model.pkl")
+X_train_final = joblib.load('./model/X_train_final.pkl')
 df = X_train_final
 
 st.title("NYC House Price Predictor")
